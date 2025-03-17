@@ -95,6 +95,7 @@ func main() {
 	fmt.Println(pers1)
 
 	bs := map[string]int{"Oslo": 1, "Bergen": 2, "Trondheim": 3, "Stavanger": 4}
+	fmt.Println("dadada",len(bs))
 	fmt.Println(bs)
 	var at = make(map[string]string) // The map is empty now
 	at["brand"] = "Ford"

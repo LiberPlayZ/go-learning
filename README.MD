@@ -16,3 +16,20 @@ Build simple, secure, scalable systems with Go
     <li>Built-in concurrency and a robust standard library</li>
     <li>Large ecosystem of partners, communities, and tools</li>
 </ul>
+
+<span style="display: flex; align-items: center">
+  <h2 style="margin: 0">Explanation</h2>
+</span>
+<p>
+The project is about learning go conepts and syntax using <a href="https://exercism.org/"> Exercism.org</a>
+</p>
+
+<h3 style="margin: 0">Main subjects</h3>
+<ul>
+    <li>variables and data types</li>
+    <li>data structures - arrays , slices , structs , maps</li>
+    <li>functions</li>
+    <li>random</li>
+     <li>pointers</li>
+</ul>
+
