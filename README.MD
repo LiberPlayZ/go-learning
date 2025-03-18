@@ -30,6 +30,9 @@ The project is about learning go conepts and syntax using <a href="https://exerc
     <li>data structures - arrays , slices , structs , maps</li>
     <li>functions</li>
     <li>random</li>
-     <li>pointers</li>
+    <li>pointers</li>
+    <li>interfaces</li>
+    <li>zero values</li>
+    <li>regular expressions</li>
 </ul>
 
