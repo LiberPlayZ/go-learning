@@ -34,5 +34,6 @@ The project is about learning go conepts and syntax using <a href="https://exerc
     <li>interfaces</li>
     <li>zero values</li>
     <li>regular expressions</li>
+    <li>errors</li>
 </ul>
 
