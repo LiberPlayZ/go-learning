@@ -7,6 +7,7 @@ type Car struct {
 
 	battery  int
 	distance int
+	
 }
 
 // NewCar creates a new car with given specifications.
